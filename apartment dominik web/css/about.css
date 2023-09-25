@@ -1,0 +1,29 @@
+h4{
+    font-family: Montserrat;
+	font-weight: bold;
+	font-size:30px;
+    color:black;
+	
+}
+
+li{
+    color:black;
+}
+
+p{
+	font-size: 1.2rem;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color:black;
+	margin:50px;
+	margin-left:60px;
+	margin-bottom:50px;
+    text-align: center;
+	
+}
+
+h5{
+    font-family: Montserrat;
+	font-weight: bold;
+	font-size:30px;
+	color:black;
+}

@@ -1,0 +1,95 @@
+#menu {
+  background-color: #a6e3e9;
+}
+
+h1 {
+  font-family: Montserrat;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.title {
+  padding-left: 50px;
+  margin: 5px;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*Navigation Bar*/
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+/*Download Button*/
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*footer*/
+
+h2 {
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.logo-fb {
+  margin: 10px;
+}
+
+.logo-ig {
+  padding-left: 20px;
+}
+
+.tweet {
+  margin: 20px;
+}
+
+.wapp {
+  margin: 20px;
+}
+
+.skype {
+  margin: 20px;
+}
+
+.linkedin {
+  margin: 20px;
+}
+
+.insta {
+  margin: 20px;
+}
+
+.fb {
+  margin: 20px;
+}

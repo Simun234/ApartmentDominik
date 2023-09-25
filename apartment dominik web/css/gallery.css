@@ -1,0 +1,34 @@
+h2{
+    margin-left:100px;
+    font-family: Montserrat;
+	font-size: 2.5rem;
+	font-weight: bold;
+	margin-bottom:50px;
+	text-align: center;
+}
+
+h3 {
+    text-align: center;
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size:24px;
+	margin-top:30px;
+}
+
+.gallery ul {
+    list-style: none;
+}
+.gallery li {
+    float:right;
+    margin:55px;
+}
+.gallery img {
+    display: block;
+    padding: 5px;
+    border: 1px solid;
+    box-shadow: 1px 1px 2px #000;
+}
+.gallery img:hower{
+    border: 1px solid #fff;
+}
+
